@@ -2,4 +2,4 @@
 
 
 Neural Networks 
-Assignments and Homeworks
+Assignments and PROJECT
